@@ -1,0 +1,35 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "noImplicitAny": true,
+      "module": "es6",
+      "target": "es6",
+      "jsx": "react",
+      "allowJs": true,
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true
+    }
+  }
+
+// {
+//     "compilerOptions": {
+//         "esModuleInterop": true,
+//         "module": "CommonJs",
+//         "target": "es6",
+//         "noImplicitAny": true,
+//         "moduleResolution": "node",
+//         "lib": ["ES2015", "DOM"],
+//         "sourceMap": true,
+//         "strict": true,
+//         "outDir": "js",
+//         "baseUrl": ".",
+//         "paths": {
+//             "*": [
+//                 "node_modules/*"
+//             ]
+//         }
+//     },
+//     "include": [
+//         "ts/"
+//     ]
+// }
